@@ -48,7 +48,7 @@
 <div align="center">
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Alura](https://img.shields.io/badge/Alura-1C1C1C?style=for-the-badge&logo=alura&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
