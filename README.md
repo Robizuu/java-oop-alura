@@ -6,7 +6,7 @@
 
 <p>Ao longo da formação, os cursos foram evoluindo gradualmente a aplicação ScreenMatch, um sistema voltado para filmes e séries. Nela, foram aplicados diversos conceitos práticos, como: manipulação de listas com ArrayList, criação de algoritmos para cálculo e classificação de notas dos filmes, implementação de exceções personalizadas para tratamento de erros de conversão, consumo de APIs para integração com um banco de dados de filmes, utilização da biblioteca Gson para conversão de objetos em JSON e geração de documentos com FileWriter.</p>
 
-
+<h2 align= "center">Projetos Desenvolvidos 🛠️</h2>
 
 <ul>
   <li>
@@ -46,7 +46,12 @@
 
 <h2 align="center">Tecnologias Aplicadas 💻</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/ width="50">
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Alura](https://img.shields.io/badge/Alura-1C1C1C?style=for-the-badge&logo=alura&logoColor=white)
+
 </div>
+
+
 
         
